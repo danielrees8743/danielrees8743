@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielrees8743&label=Profile%20views&color=0e75b6&style=flat" alt="danielrees8743" /> </p>
 
+- 🔭 I’m currently working on [Boxer-Connect](https://github.com/danielrees8743/boxer-connect)
+
+- 🌱 I’m currently learning **React, Javascript**
+
+- 👯 I’m looking to collaborate on **Anything 🤷**
+
 - 📫 How to reach me **danrees8743@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
